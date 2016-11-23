@@ -21,8 +21,13 @@ body {
   margin: 0;
 }
 
-.wrapper {
+section {
   background-color: #e5c30a;
+}
+
+.wrapper {
+  margin:
+  max-width: 45em;
 }
 
 .img-flex {
