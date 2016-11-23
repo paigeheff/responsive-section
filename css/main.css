@@ -18,7 +18,7 @@ html {
 }
 
 body {
-
+margin: 0;
 }
 
 section {
@@ -26,9 +26,26 @@ section {
 }
 
 .img-flex {
-  display: inline-block;
-  width: 
+  display: block;
+  width: 100%;
 
+}
+
+.section-letter {
+
+}
+
+.section-icon {
+
+}
+
+p {
+  width: 20rem;
+
+}
+
+h2 {
+  font-size: 1.5rem;
 }
 
 @media only screen and (min-width: 25em) {
